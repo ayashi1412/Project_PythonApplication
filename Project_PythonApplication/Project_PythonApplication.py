@@ -1,2 +1,4 @@
 
-print("Hello World")
+print("Hello, Python!")
+print("Binod")
+print'Binod'
