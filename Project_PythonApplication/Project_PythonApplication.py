@@ -1,6 +1,2 @@
-
-print("Hello, Python!")
-print("Binod")
-print(Binod)
-print"Binod"
-print'Binod'
+print("Programming","Essentials","in", sep="***", end="...")
+print("Python")
